@@ -1,5 +1,5 @@
 # Calculadora de IMC
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/IZUKUONE/Pokedex/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/IZUKUONE/calculadora-de-imc/blob/main/LICENSE) 
 
 # Sobre o projeto
 
