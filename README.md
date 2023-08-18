@@ -5,7 +5,7 @@
 
 https://izukuone.github.io/Pokedex/
 
-Pokedex é uma aplicação front-end, criado por Jorge Luis.
+A calculadora de IMC é uma aplicação front-end, criado por Jorge Luis.
 
 A aplicação consiste no usuário saber se está no peso ideal baseado na sua altura.
 
@@ -14,16 +14,11 @@ A aplicação consiste no usuário saber se está no peso ideal baseado na sua a
 
 ## Layout web
 
-![img01](https://github.com/IZUKUONE/Pokedex/assets/90990711/3ae28787-f6e0-4913-b07e-3f84bf8c8953)
-
-## Modelo conceitual
+![img002](https://github.com/IZUKUONE/calculadora-de-imc/assets/90990711/72d2d655-e4d2-4be0-a9e8-5efb17d2de54)
 
 # Tecnologias utilizadas
-## Back end
-- JavaScript
-  
+
 ## Front end
 - HTML / CSS / JS
   
-## API
-- https://pokeapi.co
+
