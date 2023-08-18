@@ -5,12 +5,12 @@
 
 https://izukuone.github.io/Pokedex/
 
-Pokedex é uma aplicação full stack construida no intuito de mostrar os pokemons que temos atualmente. 
+Pokedex é uma aplicação front-end, criado por Jorge Luis.
 
-A aplicação consiste no usuário usar o número ou o nome do pokemon de sua preferência, assim sendo mostrado o sua imagem e se ele tem na pokedex 
+A aplicação consiste no usuário saber se está no peso ideal baseado na sua altura.
 
 ## Layout mobile
-![img02](https://github.com/IZUKUONE/Pokedex/assets/90990711/ddb12a1e-f946-4951-a6ff-30dc1f387b99)
+![img001](https://github.com/IZUKUONE/calculadora-de-imc/assets/90990711/31bccc24-41d9-42ce-84ee-9732539178cd)
 
 ## Layout web
 
