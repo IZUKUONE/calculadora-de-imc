@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://izukuone.github.io/Pokedex/
+https://izukuone.github.io/calculadora-de-imc/
 
 A calculadora de IMC é uma aplicação front-end, criado por Jorge Luis.
 
@@ -19,6 +19,14 @@ A aplicação consiste no usuário saber se está no peso ideal baseado na sua a
 # Tecnologias utilizadas
 
 ## Front end
-- HTML / CSS / JS
+- HTML
+- CSS
+- JS
+  
+## Autor
+Jorge Luis de Carvalho Alves 
+
+### LinkedIn
+https://www.linkedin.com/in/jorge--carvalho/
   
 
